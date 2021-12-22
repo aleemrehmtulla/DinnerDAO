@@ -12,7 +12,7 @@ This is based off the Rinkeby network (ETH Testnet)
 
 You will need a wallet to interact with the smart contract, metamask is best
 
-Any one can mint a membership NFT, this let's you access our member page. It's them up to existing members to allocate you governace tokens. You'll be able to vote on most proposals with just the NFT membership, but some can be token based. A voted takes ~5 minutes on the new contract and has no minimum quorum.
+Any one can mint a membership NFT, this let's you access our member page. It's then up to existing members to allocate you governace tokens. You'll be able to vote on most proposals with just the NFT membership, but some can be token based. A vote takes ~5 minutes on the new contract and has no minimum quorum.
 
 ## Deployments 💻
 
@@ -42,7 +42,7 @@ This was the first time making a DAO, and it was super extensive (made an nft, e
 
 My main intention was to understand the inner mechanisms of DAOs, and get familar with thirdweb. I think it's great for the frontend, but for contract creation I want to just get better at solidity than resort to a library.
 
-Tons of limitation, while this time I added in a error message for wrong network, I still neglected a button to switch it. I also could add vote %, treasury balance, DAO address, ENS support, etc. This project won't be maintaninted, it was my foot in- now I'll recreate the same thing from scratch. I'll my it 10x better, in nextjs, and super clean- stay tuned 😉
+Tons of limitation, while this time I added in a error message for wrong network, I still neglected a button to switch it. I also could add vote %, treasury balance, DAO address, ENS support, etc. This project won't be maintaninted, it was my foot in- now I'll recreate the same thing from scratch. I'll make it 10x better, in nextjs, and super clean- stay tuned 😉
 
 
 ## Connect with me 🤗
